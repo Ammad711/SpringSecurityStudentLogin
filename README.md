@@ -8,6 +8,8 @@ Spring Boot
 Makes changes in database to see results
 ****************************************
 
+***Use Bcryptencoder for making password
+
 select * from users;
 
 INSERT INTO user_roles (user_id, role_id) VALUES (3, 4); 
